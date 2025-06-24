@@ -48,6 +48,7 @@ La estructura de carpetas utilizada para el desarrollo es la siguente:
 ├── index.css 
 ├── setupTests.ts
 
+
 ## Objetivo de UI (Interfaz de usuario)
 - Facilidad accesible al usuario
 - correcto uso de Pestañas
