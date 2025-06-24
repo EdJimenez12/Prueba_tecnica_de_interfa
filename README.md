@@ -4,7 +4,7 @@ Este proyecto es una palicacion frontend desarrollada con React, Vite, Tailwindc
 
 ## Notificación importante
 
-Quisiera destacar que este proyecto fue realizado bajo un marco de tiempo limitado considerando que no tenia conocimiento de las tecnologias excepto TypScript, apesar de la dificultad pude desarrollarme considero que pude desarrollarme de la mejor manera, adaptandome siempre a las complicaciones erroneas.
+Quisiera destacar que este proyecto fue realizado bajo un marco de tiempo limitado considerando que no tenia conocimiento de las tecnologias excepto TypeScript, apesar de la dificultad pude desarrollarme considero que pude desarrollarme de la mejor manera, adaptandome siempre a las complicaciones erroneas.
 He priorizado la reutilización de componentes.  
 Aunque algunas áreas pueden mejorarse (tests, validaciones y estilos más avanzados).
 La carpeta de assets contiene un grupo de archivos ".svg", no se utilizaron para disminuir la cantidad de archivos y mas descargas de librerias, por lo que se utilizo Lucide-react para manejar los iconos.
