@@ -1,0 +1,1 @@
+export const TABS = ["TODOS", "DIAGNOSIS CIE-10", "HALLAZGOS CLÍNICOS"];
