@@ -1,6 +1,6 @@
 # Prueba técnica de interfaz: Panel de resumen clínico
 
-Este proyecto es una palicacion frontend desarrollada con React, Vite, Tailwindcss y TypeScript, para ver y gestionar datos numericos de usuario, incluye componentes reutilizables y navegación por pestañas.
+Este proyecto es una aplicacion frontend desarrollada con React, Vite, Tailwindcss y TypeScript, para ver y gestionar datos numericos de usuario, incluye componentes reutilizables y navegación por pestañas.
 
 ## Notificación importante
 
