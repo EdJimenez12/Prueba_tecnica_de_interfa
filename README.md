@@ -20,6 +20,7 @@ La carpeta de assets contiene un grupo de archivos ".svg", no se utilizaron para
 - React Testing Library
 
 La estructura de carpetas utilizada para el desarrollo es la siguente: 
+```
 /src
 │
 ├── /components
@@ -47,6 +48,7 @@ La estructura de carpetas utilizada para el desarrollo es la siguente:
 ├── main.tsx  
 ├── index.css 
 ├── setupTests.ts
+```
 
 
 ## Objetivo de UI (Interfaz de usuario)
@@ -68,9 +70,7 @@ Ejecuta los tests usando Vitest.
 
 
 ## Instalación
-
 Clona este repositorio:
 
-```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+
+git clone https://github.com/EdJimenez12/Prueba_tecnica_de_interfa.git
